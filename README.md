@@ -1,5 +1,7 @@
 # Hi, I'm Aseel 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=Aseel-Gharaibeh12&label=Profile%20views&color=0A66C2&style=flat)
+
 **Computer Engineering graduate from Jordan, building AI agents and automations for businesses.**
 
 I help businesses answer customers faster, stop missing calls and get more bookings with AI. I build in English and Arabic.
