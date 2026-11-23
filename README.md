@@ -34,10 +34,3 @@ I help businesses answer customers faster, stop missing calls and get more booki
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aseel%20Gharaibeh-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-gharaibeh-176b90309)
 
 Open to freelance projects and collaborations in AI automation. Message me on LinkedIn.
-
----
-
-<p dir="rtl">
-خلفيتي هندسة حاسوب، ومن الأردن. أبني وكلاء ذكاء اصطناعي وأنظمة أتمتة للشركات:
-وكلاء واتساب، وكول سنتر صوتي، وأنظمة جلب عملاء، ومواقع وتطبيقات. أعمل بالعربي والإنجليزي.
-</p>
